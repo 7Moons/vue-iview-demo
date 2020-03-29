@@ -1,4 +1,3 @@
-# vue-interview-test
 
 ### 实现动态tab功能
 
