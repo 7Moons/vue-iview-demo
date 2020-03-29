@@ -6,12 +6,20 @@
 </template>
 
 <script>
-  export default {
-    name: 'form_page',
-    data() {
-      return {
-        text: '',
-      }
-    }
+export default {
+  name: "form_page",
+  data() {
+    return {
+      text: ""
+    };
+  },
+
+  created() {
+    console.log("------Form创建------");
+  },
+
+  destroyed() {
+    console.log("------Form销毁------");
   }
+};
 </script>
