@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.10.0",
-    "@vue/cli-service": "4.0.3",
+    "@vue/cli-service": "5.0.8",
     "iview": "^3.4.2",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
